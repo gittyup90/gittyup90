@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gittyup90 i started with dos 3.0 and betanet, been a while out of it but seeing the world picking up again.
 - 👀 I’m interested in  learning more and do something usefull with it.
 - 🌱 I’m currently learning ...reinventing linux lot's of new stuff, learning python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...learning for now
 - 📫 How to reach me ...not availeble for now very busy
 
 <!---
